@@ -1,0 +1,6 @@
+{
+  "name": "AI Job Application Assistant",
+  "description": "An intelligent assistant to automate your job application process. It generates tailored resumes and cover letters, and provides insights into the company and hiring manager using AI.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
